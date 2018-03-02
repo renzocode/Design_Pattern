@@ -1,5 +1,5 @@
 #include <iostream>
-#include <memory>
+
 using namespace std;
 enum Direction { North, South, East, West };
 //Mapsite is the common abstract class for all the components of maze
